@@ -157,7 +157,7 @@
    {
     "id": 38,
     "kind": "item",
-    "name": "San nền nhà máy",
+    "name": "San nền nhà máy Alumin, đầm K=0.95",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -271,5 +271,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:42:49.760Z"
+ "updatedAt": "2026-08-27T14:43:01.445Z"
 }
