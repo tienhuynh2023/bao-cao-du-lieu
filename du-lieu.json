@@ -17,8 +17,8 @@
    "cloudy": true,
    "note": ""
   },
-  "eng": "",
-  "worker": "",
+  "eng": "07",
+  "worker": "10",
   "equip": "",
   "mat": "",
   "rows": [
@@ -150,5 +150,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:35:21.285Z"
+ "updatedAt": "2026-08-27T14:35:33.417Z"
 }
