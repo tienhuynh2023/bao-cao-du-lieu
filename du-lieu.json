@@ -6,7 +6,7 @@
   "project": "Alumin Bình Phước",
   "address": "Xã Nghĩa Trung, TP Đồng Nai",
   "sender": "BCH công trường Bình Phước",
-  "recipient": "",
+  "recipient": "Công ty CP Thịnh Cường",
   "sheetNo": "01"
  },
  "ngay": {
@@ -150,5 +150,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:34:27.671Z"
+ "updatedAt": "2026-08-27T14:34:41.228Z"
 }
