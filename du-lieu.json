@@ -58,8 +58,8 @@
    {
     "id": 29,
     "kind": "item",
-    "name": "",
-    "unit": "",
+    "name": "Đào xúc quặng khu vực 1(95%)",
+    "unit": "m3",
     "contract": "",
     "prev": "",
     "today": "",
@@ -183,5 +183,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:38:37.981Z"
+ "updatedAt": "2026-08-27T14:38:53.929Z"
 }
