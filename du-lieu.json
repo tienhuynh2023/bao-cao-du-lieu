@@ -14,7 +14,7 @@
   "weather": {
    "sunny": false,
    "rainy": false,
-   "cloudy": false,
+   "cloudy": true,
    "note": ""
   },
   "eng": "",
@@ -150,5 +150,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:35:15.624Z"
+ "updatedAt": "2026-08-27T14:35:21.285Z"
 }
