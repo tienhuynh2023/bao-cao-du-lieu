@@ -87,6 +87,17 @@
     "today": "",
     "plan": "0",
     "note": ""
+   },
+   {
+    "id": 32,
+    "kind": "section",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "other": "",
@@ -183,5 +194,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:39:52.585Z"
+ "updatedAt": "2026-08-27T14:40:01.387Z"
 }
