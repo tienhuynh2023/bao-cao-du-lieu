@@ -164,17 +164,6 @@
     "today": "0",
     "plan": "0",
     "note": ""
-   },
-   {
-    "id": 39,
-    "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
    }
   ],
   "other": "",
@@ -271,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:43:13.520Z"
+ "updatedAt": "2026-08-27T14:43:17.094Z"
 }
