@@ -54,17 +54,6 @@
     "today": "",
     "plan": "",
     "note": ""
-   },
-   {
-    "id": 28,
-    "kind": "section",
-    "name": "",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
    }
   ],
   "other": "",
@@ -161,5 +150,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:36:46.162Z"
+ "updatedAt": "2026-08-27T14:36:53.200Z"
 }
