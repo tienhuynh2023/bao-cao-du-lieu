@@ -54,6 +54,39 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 29,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 30,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 31,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "other": "",
@@ -150,5 +183,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:37:15.498Z"
+ "updatedAt": "2026-08-27T14:37:21.214Z"
 }
