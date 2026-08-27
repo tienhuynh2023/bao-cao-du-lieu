@@ -116,9 +116,9 @@
     "name": "Vận chuyển đất phủ đến nơi quy định",
     "unit": "m3",
     "contract": "672827",
-    "prev": "",
-    "today": "",
-    "plan": "",
+    "prev": "0",
+    "today": "0",
+    "plan": "0",
     "note": ""
    },
    {
@@ -238,5 +238,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:41:12.368Z"
+ "updatedAt": "2026-08-27T14:41:18.823Z"
 }
