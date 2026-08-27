@@ -157,7 +157,7 @@
    {
     "id": 38,
     "kind": "item",
-    "name": "",
+    "name": "San nền nhà máy",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -271,5 +271,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:42:42.578Z"
+ "updatedAt": "2026-08-27T14:42:49.760Z"
 }
