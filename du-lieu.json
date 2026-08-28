@@ -10,7 +10,7 @@
   "sheetNo": "08"
  },
  "ngay": {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "weather": {
    "sunny": false,
    "rainy": false,
@@ -39,9 +39,9 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "56469.68",
-    "prev": "31700",
-    "today": "3000",
-    "plan": "8000",
+    "prev": "34700",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -52,7 +52,7 @@
     "contract": "658813.32",
     "prev": "0",
     "today": "",
-    "plan": "0",
+    "plan": "",
     "note": ""
    },
    {
@@ -63,7 +63,7 @@
     "contract": "321877.1",
     "prev": "0",
     "today": "",
-    "plan": "0",
+    "plan": "",
     "note": ""
    },
    {
@@ -74,7 +74,7 @@
     "contract": "16940.9",
     "prev": "0",
     "today": "",
-    "plan": "0",
+    "plan": "",
     "note": ""
    },
    {
@@ -85,7 +85,7 @@
     "contract": "244115.34",
     "prev": "0",
     "today": "",
-    "plan": "0",
+    "plan": "",
     "note": ""
    },
    {
@@ -105,9 +105,9 @@
     "name": "Vận chuyển đất hữu cơ",
     "unit": "m3",
     "contract": "56469.68",
-    "prev": "8300",
-    "today": "800",
-    "plan": "3500",
+    "prev": "9100",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -117,8 +117,8 @@
     "unit": "m3",
     "contract": "672827",
     "prev": "0",
-    "today": "0",
-    "plan": "0",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -128,8 +128,8 @@
     "unit": "m3",
     "contract": "338818",
     "prev": "0",
-    "today": "0",
-    "plan": "0",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -139,8 +139,8 @@
     "unit": "m3",
     "contract": "244115.34",
     "prev": "0",
-    "today": "0",
-    "plan": "0",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -161,8 +161,8 @@
     "unit": "m3",
     "contract": "672826.78",
     "prev": "0",
-    "today": "0",
-    "plan": "0",
+    "today": "",
+    "plan": "",
     "note": ""
    }
   ],
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-27T14:43:39.591Z"
+ "updatedAt": "2026-08-28T09:20:35.836Z"
 }
