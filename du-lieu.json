@@ -19,7 +19,7 @@
   },
   "eng": "07",
   "worker": "10",
-  "equip": "2 Máy đào ZX 470\n2 Máy đào PC200\n5 Xe tự đổ Howo 70T\n1 Xe gạt D5\n1 Xe gạt D6\n1 Xe lu rung",
+  "equip": "2 Máy đào ZX 470\n2 Máy đào PC200\n1 Máy đào 450\n5 Xe tự đổ Howo 70T\n1 Xe gạt D5\n1 Xe gạt D6\n1 Xe lu rung",
   "mat": "",
   "rows": [
    {
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-28T09:21:19.399Z"
+ "updatedAt": "2026-08-28T09:21:44.509Z"
 }
