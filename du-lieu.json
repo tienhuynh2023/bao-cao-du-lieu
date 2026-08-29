@@ -15,7 +15,7 @@
    "sunny": false,
    "rainy": true,
    "cloudy": false,
-   "note": "Mưa từ 9h-"
+   "note": "Mưa từ 9h-16h"
   },
   "eng": "08",
   "worker": "10",
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-29T09:37:54.479Z"
+ "updatedAt": "2026-08-29T09:37:58.567Z"
 }
