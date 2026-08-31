@@ -456,7 +456,7 @@
    {
     "id": 94,
     "kind": "section",
-    "name": "",
+    "name": "TRẠM CÂN",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -469,5 +469,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:08:44.490Z"
+ "updatedAt": "2026-08-31T04:08:49.181Z"
 }
