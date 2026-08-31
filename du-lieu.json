@@ -263,8 +263,8 @@
     "name": "Vận chuyển đất hữu cơ phủ đến nơi quy định",
     "unit": "m3",
     "contract": "56469,68",
-    "prev": "12900",
-    "today": "",
+    "prev": "0",
+    "today": "12900",
     "plan": "",
     "note": ""
    },
@@ -348,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:50:16.392Z"
+ "updatedAt": "2026-08-31T02:50:24.281Z"
 }
