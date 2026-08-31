@@ -324,9 +324,9 @@
    {
     "id": 8,
     "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
+    "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
+    "unit": "m3",
+    "contract": "56469,68",
     "prev": "",
     "today": "",
     "plan": "",
@@ -342,11 +342,44 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 84,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 85,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 86,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "delays": [],
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:51:26.219Z"
+ "updatedAt": "2026-08-31T03:52:03.864Z"
 }
