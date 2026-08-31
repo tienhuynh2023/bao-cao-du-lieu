@@ -106,7 +106,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "12900",
-    "today": "",
+    "today": "0",
     "plan": "",
     "note": ""
    },
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:17:44.012Z"
+ "updatedAt": "2026-08-31T02:19:56.789Z"
 }
