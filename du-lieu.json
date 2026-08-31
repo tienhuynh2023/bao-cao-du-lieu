@@ -493,7 +493,7 @@
     "unit": "Bộ",
     "contract": "1",
     "prev": "",
-    "today": "",
+    "today": "0",
     "plan": "",
     "note": ""
    }
@@ -502,5 +502,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:25:43.622Z"
+ "updatedAt": "2026-08-31T04:25:46.879Z"
 }
