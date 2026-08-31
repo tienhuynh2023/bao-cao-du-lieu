@@ -489,9 +489,9 @@
    {
     "id": 97,
     "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
+    "name": "Lắp đặt cân 120T",
+    "unit": "Bộ",
+    "contract": "1",
     "prev": "",
     "today": "",
     "plan": "",
@@ -502,5 +502,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:09:36.899Z"
+ "updatedAt": "2026-08-31T04:09:50.394Z"
 }
