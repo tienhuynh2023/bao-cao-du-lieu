@@ -175,7 +175,7 @@
   "pageBreak": 1
  },
  "tuan": {
-  "from": "",
+  "from": "2026-08-24",
   "to": "",
   "weekNo": "",
   "makeDate": "2026-08-27",
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:41:46.564Z"
+ "updatedAt": "2026-08-31T02:42:05.750Z"
 }
