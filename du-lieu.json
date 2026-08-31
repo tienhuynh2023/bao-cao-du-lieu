@@ -308,7 +308,7 @@
  "thang": {
   "month": "09",
   "year": "2026",
-  "makeDate": "",
+  "makeDate": "2026-08-31",
   "rows": [
    {
     "id": 7,
@@ -348,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:49:46.593Z"
+ "updatedAt": "2026-08-31T03:49:57.666Z"
 }
