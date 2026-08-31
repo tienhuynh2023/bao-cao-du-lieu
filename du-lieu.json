@@ -463,11 +463,22 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 95,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "delays": [],
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:08:49.181Z"
+ "updatedAt": "2026-08-31T04:08:55.595Z"
 }
