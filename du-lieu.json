@@ -474,11 +474,33 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 96,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 97,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "delays": [],
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:08:55.595Z"
+ "updatedAt": "2026-08-31T04:09:12.227Z"
 }
