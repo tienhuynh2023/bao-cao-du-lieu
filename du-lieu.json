@@ -239,8 +239,8 @@
     "id": 78,
     "kind": "item",
     "name": "Đào xúc đất phủ của nhà máy Alumin do cao độ còn cao hơn với cao độ thiết kế",
-    "unit": "",
-    "contract": "",
+    "unit": "m3",
+    "contract": "244115,34",
     "prev": "",
     "today": "",
     "plan": "",
@@ -293,5 +293,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:46:29.197Z"
+ "updatedAt": "2026-08-31T02:46:39.423Z"
 }
