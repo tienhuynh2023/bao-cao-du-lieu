@@ -498,9 +498,17 @@
     "note": ""
    }
   ],
-  "delays": [],
+  "delays": [
+   {
+    "id": 98,
+    "name": "",
+    "problem": "",
+    "solution": "",
+    "note": ""
+   }
+  ],
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:25:49.835Z"
+ "updatedAt": "2026-08-31T07:27:00.552Z"
 }
