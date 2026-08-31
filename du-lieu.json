@@ -390,7 +390,7 @@
    {
     "id": 88,
     "kind": "item",
-    "name": "",
+    "name": "Vận chuyển đất hữu cơ phủ đến nơi quy định",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -436,5 +436,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:55:09.920Z"
+ "updatedAt": "2026-08-31T03:55:29.622Z"
 }
