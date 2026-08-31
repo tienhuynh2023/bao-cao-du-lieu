@@ -471,7 +471,7 @@
     "unit": "Tấn",
     "contract": "1.8",
     "prev": "",
-    "today": "",
+    "today": "1,8",
     "plan": "",
     "note": ""
    },
@@ -502,5 +502,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:24:57.625Z"
+ "updatedAt": "2026-08-31T04:25:38.941Z"
 }
