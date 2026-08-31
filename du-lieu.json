@@ -467,9 +467,9 @@
    {
     "id": 95,
     "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
+    "name": "Gia công thép",
+    "unit": "Tấn",
+    "contract": "1.8",
     "prev": "",
     "today": "",
     "plan": "",
@@ -502,5 +502,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:09:12.227Z"
+ "updatedAt": "2026-08-31T04:09:25.301Z"
 }
