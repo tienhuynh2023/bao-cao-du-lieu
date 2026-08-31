@@ -249,6 +249,50 @@
    {
     "id": 79,
     "kind": "section",
+    "name": "CÔNG TÁC VẬN CHUYỂN",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 80,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 81,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 82,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 83,
+    "kind": "item",
     "name": "",
     "unit": "",
     "contract": "",
@@ -304,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:47:02.505Z"
+ "updatedAt": "2026-08-31T02:47:14.038Z"
 }
