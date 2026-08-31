@@ -293,7 +293,7 @@
    {
     "id": 83,
     "kind": "item",
-    "name": "",
+    "name": "Vận chuyển đất xúc phủ của nhà máy Alumin do cao độ còn cao hơn cao độ thiết kế",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -348,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:48:19.049Z"
+ "updatedAt": "2026-08-31T02:48:41.792Z"
 }
