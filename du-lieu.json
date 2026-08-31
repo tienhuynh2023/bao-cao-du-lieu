@@ -313,7 +313,7 @@
    {
     "id": 7,
     "kind": "section",
-    "name": "",
+    "name": "CÔNG TÁC XÚC",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -348,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:51:19.367Z"
+ "updatedAt": "2026-08-31T03:51:26.219Z"
 }
