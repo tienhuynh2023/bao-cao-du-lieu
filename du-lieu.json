@@ -282,9 +282,9 @@
    {
     "id": 82,
     "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
+    "name": "Vận chuyển đất quặng đến nơi quy định",
+    "unit": "m3",
+    "contract": "338818",
     "prev": "",
     "today": "",
     "plan": "",
@@ -348,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:48:00.431Z"
+ "updatedAt": "2026-08-31T02:48:19.049Z"
 }
