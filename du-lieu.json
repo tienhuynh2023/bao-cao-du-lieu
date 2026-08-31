@@ -478,9 +478,9 @@
    {
     "id": 96,
     "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
+    "name": "Đổ bê tông móng",
+    "unit": "m3",
+    "contract": "32",
     "prev": "",
     "today": "",
     "plan": "",
@@ -502,5 +502,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:09:25.301Z"
+ "updatedAt": "2026-08-31T04:09:36.899Z"
 }
