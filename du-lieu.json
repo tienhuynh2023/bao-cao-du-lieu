@@ -217,8 +217,8 @@
     "id": 76,
     "kind": "item",
     "name": "Đào xúc quặng khu vực 1 (95%)",
-    "unit": "",
-    "contract": "",
+    "unit": "m3",
+    "contract": "321877,1",
     "prev": "",
     "today": "",
     "plan": "",
@@ -293,5 +293,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:44:35.711Z"
+ "updatedAt": "2026-08-31T02:44:44.343Z"
 }
