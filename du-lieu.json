@@ -375,11 +375,66 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 87,
+    "kind": "section",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 88,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 89,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 90,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 91,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "delays": [],
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:54:11.885Z"
+ "updatedAt": "2026-08-31T03:55:02.946Z"
 }
