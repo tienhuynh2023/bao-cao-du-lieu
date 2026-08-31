@@ -227,9 +227,9 @@
    {
     "id": 77,
     "kind": "item",
-    "name": "Đào xúc quặng ",
-    "unit": "",
-    "contract": "",
+    "name": "Đào xúc quặng kết tạng 1 (5%)",
+    "unit": "m3",
+    "contract": "16940,9",
     "prev": "",
     "today": "",
     "plan": "",
@@ -293,5 +293,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:44:52.956Z"
+ "updatedAt": "2026-08-31T02:45:40.964Z"
 }
