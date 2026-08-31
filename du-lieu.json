@@ -17,7 +17,7 @@
    "cloudy": false,
    "note": "Mưa từ 11h30"
   },
-  "eng": "07",
+  "eng": "04",
   "worker": "10",
   "equip": "2 Máy đào ZX 470\n2 Máy đào PC200\n5 Xe tự đổ Howo 70T\n1 Xe gạt D5\n1 Xe gạt D6\n1 Xe lu rung",
   "mat": "Nhà hầu Hoky:\n-Nhập 2 máy đào 450.",
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:15:04.733Z"
+ "updatedAt": "2026-08-31T02:15:23.115Z"
 }
