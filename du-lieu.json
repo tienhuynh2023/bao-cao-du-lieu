@@ -494,7 +494,7 @@
     "contract": "1",
     "prev": "",
     "today": "0",
-    "plan": "",
+    "plan": "1",
     "note": ""
    }
   ],
@@ -502,5 +502,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:25:46.879Z"
+ "updatedAt": "2026-08-31T04:25:49.835Z"
 }
