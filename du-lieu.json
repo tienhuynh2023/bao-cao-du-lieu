@@ -441,11 +441,22 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 93,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "delays": [],
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:08:05.842Z"
+ "updatedAt": "2026-08-31T04:08:09.230Z"
 }
