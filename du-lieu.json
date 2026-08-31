@@ -446,8 +446,8 @@
     "id": 93,
     "kind": "item",
     "name": "San nền nhà máy Alumin, K=0.95",
-    "unit": "",
-    "contract": "",
+    "unit": "m3",
+    "contract": "672826,78",
     "prev": "",
     "today": "",
     "plan": "",
@@ -458,5 +458,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T04:08:24.480Z"
+ "updatedAt": "2026-08-31T04:08:34.961Z"
 }
