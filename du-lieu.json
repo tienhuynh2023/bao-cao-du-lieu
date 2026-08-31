@@ -327,7 +327,7 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "56469,68",
-    "prev": "",
+    "prev": "0",
     "today": "",
     "plan": "",
     "note": ""
@@ -338,7 +338,7 @@
     "name": "Đào xúc đất phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "658813,32",
-    "prev": "",
+    "prev": "0",
     "today": "",
     "plan": "",
     "note": ""
@@ -349,7 +349,7 @@
     "name": "Đào xúc quặng khu vực 1 (95%)",
     "unit": "m3",
     "contract": "321877,1",
-    "prev": "",
+    "prev": "0",
     "today": "",
     "plan": "",
     "note": ""
@@ -360,7 +360,7 @@
     "name": "Đào xúc quặng kết tạng (5%)",
     "unit": "m3",
     "contract": "16940,9",
-    "prev": "",
+    "prev": "0",
     "today": "",
     "plan": "",
     "note": ""
@@ -371,7 +371,7 @@
     "name": "Đào xúc đất phủ của nhà máy Alumin do cao độ còn cao hơn thiết kế",
     "unit": "m3",
     "contract": "244115,34",
-    "prev": "",
+    "prev": "0",
     "today": "",
     "plan": "",
     "note": ""
@@ -381,5 +381,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:53:33.814Z"
+ "updatedAt": "2026-08-31T03:53:44.741Z"
 }
