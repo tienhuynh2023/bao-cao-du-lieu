@@ -313,7 +313,7 @@
    {
     "id": 7,
     "kind": "section",
-    "name": "Hạng mục ……",
+    "name": "",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -348,5 +348,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T03:49:57.666Z"
+ "updatedAt": "2026-08-31T03:51:19.367Z"
 }
