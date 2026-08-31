@@ -205,9 +205,9 @@
    {
     "id": 6,
     "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
+    "name": "Đào xúc đất phủ của nhà máy alumin",
+    "unit": "m3",
+    "contract": "658",
     "prev": "",
     "today": "",
     "plan": "",
@@ -260,5 +260,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-08-31T02:43:49.907Z"
+ "updatedAt": "2026-08-31T02:44:13.616Z"
 }
