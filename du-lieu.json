@@ -106,7 +106,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "12900",
-    "today": "",
+    "today": "0",
     "plan": "",
     "note": "Mưa"
    },
@@ -510,5 +510,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-09-03T01:38:43.350Z"
+ "updatedAt": "2026-09-03T01:38:47.679Z"
 }
