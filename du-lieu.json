@@ -181,8 +181,8 @@
    {
     "id": 103,
     "kind": "item",
-    "name": "",
-    "unit": "",
+    "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
+    "unit": "m3",
     "contract": "",
     "prev": "",
     "today": "",
@@ -690,5 +690,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-09-03T02:43:56.559Z"
+ "updatedAt": "2026-09-03T02:44:15.920Z"
 }
