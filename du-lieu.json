@@ -188,17 +188,6 @@
     "today": "3500",
     "plan": "5000",
     "note": ""
-   },
-   {
-    "id": 104,
-    "kind": "item",
-    "name": "",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
    }
   ],
   "equipRows": [
@@ -690,5 +679,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-09-03T02:44:36.104Z"
+ "updatedAt": "2026-09-03T02:44:43.244Z"
 }
