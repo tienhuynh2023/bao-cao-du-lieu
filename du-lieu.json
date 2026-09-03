@@ -364,7 +364,7 @@
     "unit": "m3",
     "contract": "658813,32",
     "prev": "0",
-    "today": "",
+    "today": "150000",
     "plan": "",
     "note": ""
    },
@@ -535,5 +535,5 @@
   "other": "",
   "proposal": "-BCH công trường cần có công văn gửi KTQ làm rõ vấn đề vật liệu cấp phối san nền đối với bờ taluy trước khi tiến hành thi công bóc phủ + san nền.\n"
  },
- "updatedAt": "2026-09-03T03:02:34.614Z"
+ "updatedAt": "2026-09-03T03:29:39.057Z"
 }
