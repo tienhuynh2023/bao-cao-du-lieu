@@ -196,7 +196,7 @@
     "kind": "item",
     "name": "Máy xúc PC200 số hiệu EX50",
     "qty": "1",
-    "start": "8h",
+    "start": "8",
     "finish": "17h",
     "stop": "1",
     "work": "",
@@ -547,5 +547,5 @@
   "other": "",
   "proposal": "-BCH công trường cần có công văn gửi KTQ làm rõ vấn đề vật liệu cấp phối san nền đối với bờ taluy trước khi tiến hành thi công bóc phủ + san nền.\n-Các công tác chuẩn bị (trạm cân, điện thi công, điện chiếu sáng, trạm cân, nhà sửa chữa xe cơ giới) cần đẩy nhanh để đảm bảo cho quá trình vận hành khai thác trong tháng."
  },
- "updatedAt": "2026-09-03T09:10:45.628Z"
+ "updatedAt": "2026-09-03T09:10:56.245Z"
 }
