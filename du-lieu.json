@@ -194,7 +194,7 @@
    {
     "id": 105,
     "kind": "section",
-    "name": "THIẾT BỊ CỦA NHÀ THẦU CHÍNH",
+    "name": "THIẾT BỊ HOẠT ĐỘNG CỦA NHÀ THẦU CHÍNH",
     "qty": "",
     "start": "",
     "finish": "",
@@ -679,5 +679,5 @@
   "other": "",
   "proposal": ""
  },
- "updatedAt": "2026-09-03T02:45:56.397Z"
+ "updatedAt": "2026-09-03T02:48:26.886Z"
 }
