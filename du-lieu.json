@@ -20,7 +20,7 @@
   "eng": "08",
   "worker": "10",
   "equip": "2 Máy đào ZX 470\n2 Máy đào PC200\n5 Xe tự đổ Howo 70T\n2 Xe gạt D5\n1 Xe gạt D6\n2 Xe lu rung\nSố thiết bị hoạt động  09/14",
-  "mat": "-Sắt + Tbi chống sét",
+  "mat": "-Thiết bị thi công chống sét",
   "rows": [
    {
     "id": 1,
@@ -609,5 +609,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-08T08:01:46.095Z"
+ "updatedAt": "2026-09-08T08:02:05.844Z"
 }
