@@ -107,7 +107,7 @@
     "contract": "56469.68",
     "prev": "17100",
     "today": "800",
-    "plan": "",
+    "plan": "2000",
     "note": ""
    },
    {
@@ -609,5 +609,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-10T03:49:58.841Z"
+ "updatedAt": "2026-09-10T03:50:08.778Z"
 }
