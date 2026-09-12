@@ -10,7 +10,7 @@
   "sheetNo": "01"
  },
  "ngay": {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "weather": {
    "sunny": false,
    "rainy": true,
@@ -40,8 +40,8 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "70200",
-    "today": "0",
-    "plan": "1500",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -107,7 +107,7 @@
     "contract": "56469.68",
     "prev": "18300",
     "today": "",
-    "plan": "2000",
+    "plan": "",
     "note": ""
    },
    {
@@ -185,8 +185,8 @@
     "unit": "m3",
     "contract": "",
     "prev": "70900",
-    "today": "0",
-    "plan": "1500",
+    "today": "",
+    "plan": "",
     "note": ""
    }
   ],
@@ -225,7 +225,7 @@
     "note": ""
    }
   ],
-  "other": "- Khơi thông mương thoát nước\n- Lắp dựng cột thu sét\n- Nghiệm thu hữu cơ ô HL13\n",
+  "other": "",
   "proposal": "",
   "safety": "good",
   "sanit": "good",
@@ -609,5 +609,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-12T07:54:59.878Z"
+ "updatedAt": "2026-09-12T07:55:33.821Z"
 }
