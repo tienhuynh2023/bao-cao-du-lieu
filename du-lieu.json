@@ -234,10 +234,10 @@
   "pageBreak": 0
  },
  "tuan": {
-  "from": "2026-08-31",
-  "to": "2026-09-06",
-  "weekNo": "1",
-  "makeDate": "2026-09-07",
+  "from": "2026-09-07",
+  "to": "2026-09-13",
+  "weekNo": "2",
+  "makeDate": "2026-09-14",
   "rows": [
    {
     "id": 4,
@@ -256,9 +256,9 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "56469,68",
-    "prev": "44200",
-    "today": "16000",
-    "plan": "13800",
+    "prev": "60200",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -322,9 +322,9 @@
     "name": "Vận chuyển đất hữu cơ phủ đến nơi quy định",
     "unit": "m3",
     "contract": "56469,68",
-    "prev": "12900",
-    "today": "700",
-    "plan": "30000",
+    "prev": "13600",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -362,7 +362,7 @@
    }
   ],
   "other": "",
-  "proposal": "- Đẩy nhanh đấu nối điện và bãi sửa chữa xe cơ giới.\n- Bổ sung máy ban để giải quyết nhanh công tác nghiệm thu bóc phủ hữu cơ và sửa chữa đường tạm cho xe vận \nchuyển.\n"
+  "proposal": ""
  },
  "thang": {
   "month": "08",
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T03:35:57.481Z"
+ "updatedAt": "2026-09-14T03:38:37.743Z"
 }
