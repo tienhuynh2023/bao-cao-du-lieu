@@ -234,10 +234,10 @@
   "pageBreak": 0
  },
  "tuan": {
-  "from": "2026-08-24",
-  "to": "2026-08-30",
-  "weekNo": "2",
-  "makeDate": "2026-08-31",
+  "from": "2026-08-31",
+  "to": "2026-09-06",
+  "weekNo": "3",
+  "makeDate": "2026-09-14",
   "rows": [
    {
     "id": 4,
@@ -256,9 +256,9 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "56469,68",
-    "prev": "11200",
-    "today": "33000",
-    "plan": "14769",
+    "prev": "44200",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -322,9 +322,9 @@
     "name": "Vận chuyển đất hữu cơ phủ đến nơi quy định",
     "unit": "m3",
     "contract": "56469,68",
-    "prev": "0",
-    "today": "12900",
-    "plan": "20000",
+    "prev": "12900",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -361,8 +361,8 @@
     "note": ""
    }
   ],
-  "other": "Công tác dự kiến\n+04/09 tiến hành lu thử\n+05/09 đấu nối điện và nghiệm thu HL13",
-  "proposal": "-Đề nghị BLD bố trí 01 xe ban để xử lý rễ cây còn sót, gạt đều mặt bằng sau khi ủi hữu cơ, phục vụ nghiệm thu và sửa đường \ncho xe chở đất.\n-Do mưa nhiều, liên tục, xe chở đất 70T hiện tại hoạt động không hiệu quả. Đề nghị BLD có phương án thay thế phù hợp.\n-Đẩy nhanh đấu nối điện và hoàn thiện lán sửa chữa để đội sửa chữa có điều kiện làm việc."
+  "other": "",
+  "proposal": ""
  },
  "thang": {
   "month": "08",
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T03:31:51.482Z"
+ "updatedAt": "2026-09-14T03:32:06.808Z"
 }
