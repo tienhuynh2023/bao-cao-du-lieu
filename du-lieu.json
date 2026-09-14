@@ -14,7 +14,7 @@
   "weather": {
    "sunny": false,
    "rainy": true,
-   "cloudy": true,
+   "cloudy": false,
    "note": "Mưa từ 12h20"
   },
   "eng": "08",
@@ -609,5 +609,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T02:05:15.813Z"
+ "updatedAt": "2026-09-14T02:13:20.801Z"
 }
