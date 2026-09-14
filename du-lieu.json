@@ -359,39 +359,6 @@
     "today": "",
     "plan": "",
     "note": ""
-   },
-   {
-    "id": 275,
-    "kind": "section",
-    "name": "HẠNG MỤC 3",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
-   },
-   {
-    "id": 276,
-    "kind": "item",
-    "name": "Công tác 1",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
-   },
-   {
-    "id": 277,
-    "kind": "item",
-    "name": "Công tác 2",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
    }
   ],
   "other": "",
@@ -609,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T02:29:44.579Z"
+ "updatedAt": "2026-09-14T02:44:02.448Z"
 }
