@@ -237,7 +237,7 @@
   "from": "2026-08-24",
   "to": "2026-08-30",
   "weekNo": "2",
-  "makeDate": "",
+  "makeDate": "2026-08-31",
   "rows": [
    {
     "id": 4,
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T03:27:49.020Z"
+ "updatedAt": "2026-09-14T03:27:51.636Z"
 }
