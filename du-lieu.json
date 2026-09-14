@@ -234,7 +234,7 @@
   "pageBreak": 0
  },
  "tuan": {
-  "from": "2026-09-07",
+  "from": "2026-08-24",
   "to": "2026-09-13",
   "weekNo": "2",
   "makeDate": "2026-09-14",
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T03:27:12.007Z"
+ "updatedAt": "2026-09-14T03:27:18.101Z"
 }
