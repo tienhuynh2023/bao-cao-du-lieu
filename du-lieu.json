@@ -10,7 +10,7 @@
   "sheetNo": "02"
  },
  "ngay": {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "weather": {
    "sunny": false,
    "rainy": true,
@@ -40,7 +40,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "71400",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -106,7 +106,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "18900",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -185,7 +185,7 @@
     "unit": "m3",
     "contract": "",
     "prev": "71400",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    }
@@ -225,7 +225,7 @@
     "note": ""
    }
   ],
-  "other": "-Gạt lại mặt ô HL1-2-3-4\n-Khơi thông, vét các mương tách nước",
+  "other": "",
   "proposal": "",
   "safety": "good",
   "sanit": "good",
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-14T09:15:53.381Z"
+ "updatedAt": "2026-09-16T04:52:46.462Z"
 }
