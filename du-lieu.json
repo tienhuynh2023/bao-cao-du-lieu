@@ -10,7 +10,7 @@
   "sheetNo": "02"
  },
  "ngay": {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "weather": {
    "sunny": true,
    "rainy": false,
@@ -40,8 +40,8 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "71400",
-    "today": "0",
-    "plan": "0",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -105,9 +105,9 @@
     "name": "Vận chuyển đất hữu cơ",
     "unit": "m3",
     "contract": "56469.68",
-    "prev": "18900",
-    "today": "2500",
-    "plan": "3000",
+    "prev": "21400",
+    "today": "",
+    "plan": "",
     "note": ""
    },
    {
@@ -185,7 +185,7 @@
     "unit": "m3",
     "contract": "",
     "prev": "71400",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    }
@@ -225,7 +225,7 @@
     "note": ""
    }
   ],
-  "other": "Vận chuyển hữu cơ HL 7-9-11\nỦi hữu cơ ranh HL 2-10\nGạt lại mặt HL 2-HL6",
+  "other": "",
   "proposal": "",
   "safety": "good",
   "sanit": "good",
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-17T01:04:28.964Z"
+ "updatedAt": "2026-09-17T01:04:35.695Z"
 }
