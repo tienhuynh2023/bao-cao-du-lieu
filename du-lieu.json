@@ -40,7 +40,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "71400",
-    "today": "500",
+    "today": "0",
     "plan": "",
     "note": ""
    },
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-17T01:03:56.906Z"
+ "updatedAt": "2026-09-17T01:04:08.623Z"
 }
