@@ -39,7 +39,7 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "56469.68",
-    "prev": "63700",
+    "prev": "60200",
     "today": "4000",
     "plan": "",
     "note": ""
@@ -587,5 +587,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T03:18:58.215Z"
+ "updatedAt": "2026-09-18T03:19:03.595Z"
 }
