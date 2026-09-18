@@ -10,7 +10,7 @@
   "sheetNo": "02"
  },
  "ngay": {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "weather": {
    "sunny": false,
    "rainy": true,
@@ -40,7 +40,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "70200",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -106,7 +106,7 @@
     "unit": "m3",
     "contract": "56469.68",
     "prev": "18300",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -185,7 +185,7 @@
     "unit": "m3",
     "contract": "",
     "prev": "70200",
-    "today": "0",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -236,7 +236,7 @@
     "note": ""
    }
   ],
-  "other": "Vét, sửa muong thoát nước\nDuy tu, bảo dưỡng xe hổ lệch",
+  "other": "",
   "proposal": "",
   "safety": "good",
   "sanit": "good",
@@ -587,5 +587,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T03:26:44.218Z"
+ "updatedAt": "2026-09-18T03:26:53.465Z"
 }
