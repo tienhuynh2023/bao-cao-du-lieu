@@ -188,6 +188,28 @@
     "today": "0",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 403,
+    "kind": "section",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 404,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "equipRows": [
@@ -576,5 +598,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T00:51:47.605Z"
+ "updatedAt": "2026-09-18T00:51:53.327Z"
 }
