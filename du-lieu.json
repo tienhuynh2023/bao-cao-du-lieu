@@ -188,17 +188,6 @@
     "today": "500",
     "plan": "",
     "note": ""
-   },
-   {
-    "id": 403,
-    "kind": "section",
-    "name": "HOKY",
-    "unit": "",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
    }
   ],
   "equipRows": [
@@ -587,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T03:43:42.380Z"
+ "updatedAt": "2026-09-18T03:43:47.554Z"
 }
