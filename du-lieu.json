@@ -203,7 +203,7 @@
    {
     "id": 404,
     "kind": "item",
-    "name": "",
+    "name": "Đào",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -598,5 +598,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T00:51:57.461Z"
+ "updatedAt": "2026-09-18T00:52:02.547Z"
 }
