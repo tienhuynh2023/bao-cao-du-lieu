@@ -199,28 +199,6 @@
     "today": "",
     "plan": "",
     "note": ""
-   },
-   {
-    "id": 404,
-    "kind": "item",
-    "name": "Đào xúc đất phủ của nhà máy Alumin",
-    "unit": "m3",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
-   },
-   {
-    "id": 405,
-    "kind": "item",
-    "name": "Vận chuyển đất phủ đến nơi quy định",
-    "unit": "m3",
-    "contract": "",
-    "prev": "",
-    "today": "",
-    "plan": "",
-    "note": ""
    }
   ],
   "equipRows": [
@@ -609,5 +587,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T03:12:31.562Z"
+ "updatedAt": "2026-09-18T03:12:43.312Z"
 }
