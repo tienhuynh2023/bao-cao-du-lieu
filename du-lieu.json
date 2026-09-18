@@ -10,7 +10,7 @@
   "sheetNo": "02"
  },
  "ngay": {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "weather": {
    "sunny": true,
    "rainy": false,
@@ -39,8 +39,8 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "56469.68",
-    "prev": "63700",
-    "today": "4000",
+    "prev": "67700",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -105,8 +105,8 @@
     "name": "Vận chuyển đất hữu cơ",
     "unit": "m3",
     "contract": "56469.68",
-    "prev": "15600",
-    "today": "1500",
+    "prev": "17100",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -184,8 +184,8 @@
     "name": "Đào xúc đất hữu cơ phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "",
-    "prev": "63700",
-    "today": "4000",
+    "prev": "67700",
+    "today": "",
     "plan": "",
     "note": ""
    },
@@ -587,5 +587,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T03:23:34.461Z"
+ "updatedAt": "2026-09-18T03:23:53.972Z"
 }
