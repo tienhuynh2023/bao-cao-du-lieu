@@ -12,7 +12,7 @@
  "ngay": {
   "date": "2026-09-15",
   "weather": {
-   "sunny": false,
+   "sunny": true,
    "rainy": true,
    "cloudy": true,
    "note": ""
@@ -587,5 +587,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-18T03:42:00.147Z"
+ "updatedAt": "2026-09-18T03:42:26.075Z"
 }
