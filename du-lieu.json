@@ -10,7 +10,7 @@
   "sheetNo": "02"
  },
  "ngay": {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "weather": {
    "sunny": true,
    "rainy": false,
@@ -41,7 +41,7 @@
     "contract": "56469.68",
     "prev": "71900",
     "today": "",
-    "plan": "0",
+    "plan": "",
     "note": ""
    },
    {
@@ -107,7 +107,7 @@
     "contract": "56469.68",
     "prev": "27100",
     "today": "",
-    "plan": "2500",
+    "plan": "",
     "note": ""
    },
    {
@@ -225,7 +225,7 @@
     "note": ""
    }
   ],
-  "other": "-Đường ướt không thi công được",
+  "other": "",
   "proposal": "",
   "safety": "good",
   "sanit": "good",
@@ -576,5 +576,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-19T10:06:33.904Z"
+ "updatedAt": "2026-09-19T10:06:40.790Z"
 }
