@@ -221,6 +221,28 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 344,
+    "kind": "section",
+    "name": "NHÀ THẦU",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 345,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "equipRows": [
@@ -609,5 +631,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-21T00:58:17.093Z"
+ "updatedAt": "2026-09-21T00:58:32.542Z"
 }
