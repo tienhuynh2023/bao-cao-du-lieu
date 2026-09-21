@@ -302,7 +302,7 @@
  "tuan": {
   "from": "2026-09-14",
   "to": "2026-09-20",
-  "weekNo": "39",
+  "weekNo": "38",
   "makeDate": "2026-09-21",
   "rows": [
    {
@@ -642,5 +642,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-21T09:48:41.094Z"
+ "updatedAt": "2026-09-21T09:48:44.992Z"
 }
