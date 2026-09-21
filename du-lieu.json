@@ -203,6 +203,17 @@
    {
     "id": 342,
     "kind": "item",
+    "name": "Đào xúc đất phủ của nhà máy Alumin",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
+   },
+   {
+    "id": 343,
+    "kind": "item",
     "name": "",
     "unit": "",
     "contract": "",
@@ -598,5 +609,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-21T00:57:47.742Z"
+ "updatedAt": "2026-09-21T00:58:06.714Z"
 }
