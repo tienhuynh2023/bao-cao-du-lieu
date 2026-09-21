@@ -206,7 +206,7 @@
     "name": "Đào xúc đất phủ của nhà máy Alumin",
     "unit": "m3",
     "contract": "",
-    "prev": "",
+    "prev": "0",
     "today": "",
     "plan": "",
     "note": ""
@@ -642,5 +642,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-21T01:03:07.260Z"
+ "updatedAt": "2026-09-21T01:03:21.569Z"
 }
