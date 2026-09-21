@@ -225,7 +225,7 @@
    {
     "id": 344,
     "kind": "section",
-    "name": "NHÀ THẦU",
+    "name": "NHÀ THẦU HKT",
     "unit": "",
     "contract": "",
     "prev": "",
@@ -631,5 +631,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-21T00:58:43.980Z"
+ "updatedAt": "2026-09-21T00:58:49.158Z"
 }
