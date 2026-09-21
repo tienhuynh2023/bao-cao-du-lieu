@@ -243,6 +243,17 @@
     "today": "",
     "plan": "",
     "note": ""
+   },
+   {
+    "id": 346,
+    "kind": "item",
+    "name": "",
+    "unit": "",
+    "contract": "",
+    "prev": "",
+    "today": "",
+    "plan": "",
+    "note": ""
    }
   ],
   "equipRows": [
@@ -631,5 +642,5 @@
   "other": "",
   "proposal": "Nội dung ý kiến, đề nghị"
  },
- "updatedAt": "2026-09-21T00:58:49.158Z"
+ "updatedAt": "2026-09-21T00:58:56.368Z"
 }
